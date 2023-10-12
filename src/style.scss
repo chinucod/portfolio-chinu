@@ -1,0 +1,88 @@
+.App{
+    
+}
+
+.nav-bar{
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+    img{
+        margin-left: 20px;
+        width: 200px;
+    }
+    .top{
+        display: flex;
+        align-items: center;
+        li{
+            list-style: none;
+            color: black;
+            margin-left: 80px;
+            font-size: 24px;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        li:hover{
+            color: #AFFF2E;
+        }
+    }
+}
+.about{
+    .title{
+        font-size: 70px;
+        text-align: center;
+        font-weight: 900;
+        line-height: 0.1;
+        padding-top: 130px;
+        
+        p:last-child{
+            font-size: 80px;
+            padding-top: 0;
+            
+        }
+    }
+    .q{
+        font-size: 20px;
+        text-align: center;
+        font-weight: 700;
+    }
+    padding-bottom: 180px;
+}
+.me{
+    .about-me{
+        text-align: center;
+        line-height: 0.1;
+        p:first-child{
+            font-size: 30px;
+        }
+        p:not(:first-child):not(:last-child){
+            font-size: 70px;
+            font-weight: 700;
+            color: #9DFF00;
+        }
+        p:last-child{
+            font-size: 50px;
+        }
+    }
+    .about-chinu{
+        text-align: center;
+        padding-top: 50px;
+        
+        hr{
+            background-color: #9DFF00;
+            height: 2px;
+            border: none;
+            width: 150px;
+        }
+        p{
+            font-weight: 500;
+            padding-top: 20px;
+            font-size: 30px;
+            margin: 0px 200px;
+            padding-bottom: 180px;
+        }
+    }
+}
