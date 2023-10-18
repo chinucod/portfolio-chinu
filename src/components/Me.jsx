@@ -4,7 +4,7 @@ const Me = () => {
   return (
     <div className='me'>
         <div className='about-me'>
-            <p>Hi, I'm</p>
+            <p className="underline">Hi, I'm</p>
             <p>Rajendra prasad</p>
             <p>Web Developer</p>
         </div>

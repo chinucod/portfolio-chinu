@@ -1,3 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 *{
     font-family: 'Poppins', sans-serif;
     font-family: 'DM Sans', sans-serif;
@@ -6,5 +10,6 @@
 }
 body{
     margin: 0;
+    margin-top: 0;
 }
 
