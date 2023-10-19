@@ -9,7 +9,7 @@ import git from "../images/git.png"
 import js from "../images/js.png"
 import mongo from "../images/mongo.png"
 import sql from "../images/sql.png"
-
+import photo from '../images/photo.png'
 const Skills = () => {
   return (
     <div className='skills'>
@@ -58,6 +58,10 @@ const Skills = () => {
                 <div className='icon'>
                   <div className='image'><img src={sql}></img></div>
                   <p>Sql</p>
+                </div>
+                <div className='icon'>
+                  <div className='image'><img src={photo}></img></div>
+                  <p>Photoshop</p>
                 </div>
             </div>
         </div>

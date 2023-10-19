@@ -36,13 +36,14 @@
     
 }
 .about{
+    
+
     .title{
         font-size: 70px;
         text-align: center;
         font-weight: 900;
         line-height: 0.1;
-        padding-top: 250px;
-        
+        padding-top: 200px;
         p:last-child{
             font-size: 80px;
             padding-top: 0;
@@ -53,6 +54,19 @@
         text-align: center;
         font-weight: 400;
         font-family: 'Poppins', sans-serif;
+    }
+    .link{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .link-img{
+            padding: 20px;
+            img{
+                width: 25px;
+                cursor: pointer;
+            }
+        }
     }
     padding-bottom: 250px;
 }
@@ -74,6 +88,19 @@
         p:last-child{
             font-size: 50px;
             
+        }
+    }
+    .link{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .link-img{
+            padding: 20px;
+            img{
+                width: 25px;
+                cursor: pointer;
+            }
         }
     }
     .about-chinu{
@@ -303,17 +330,7 @@
                 color: #6b7688;
                 font-weight: 500;
             }
-           
-        }
-        .chat{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            .form{
-                margin-left: 500px;
-            }
-        }
-        
-        
     }
+}
+
 }
