@@ -6,10 +6,11 @@ import linked from "../images/linkedin.png"
 
 const Me = () => {
   return (
+    <div id="me">
     <div className='me'>
         <div className='about-me'>
-            <p className="underline">Hi, I'm</p>
-            <p>Rajendra prasad</p>
+            <p className="underline2">Hi, I'm</p>
+            <p className='name'>Rajendra prasad</p>
             <p>Web Developer</p>
         </div>
         <div className='link'>
@@ -31,6 +32,7 @@ const Me = () => {
             <hr></hr>
             <p>Fullstack Web developer with a keen interest in all things web dev. Always learning, both in and out of work. Currently learning: Vue!</p>
         </div>
+    </div>
     </div>
   )
 }

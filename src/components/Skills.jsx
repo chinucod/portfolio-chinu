@@ -12,6 +12,7 @@ import sql from "../images/sql.png"
 import photo from '../images/photo.png'
 const Skills = () => {
   return (
+    <div id='skills'>
     <div className='skills'>
         <div className='skill'>
             <div className='title'>
@@ -65,6 +66,7 @@ const Skills = () => {
                 </div>
             </div>
         </div>
+    </div>
     </div>
   )
 }

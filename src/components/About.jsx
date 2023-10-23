@@ -6,10 +6,11 @@ import insta from "../images/insta.png"
 import linked from "../images/linkedin.png"
 const About = () => {
   return (
+    <div id='/'>
     <div className='about'>
         <div className='title'>
             <p className='underline'>Think Simple</p>
-            <p>Design Simple</p>
+            <p className='underline1'>Design Simple</p>
         </div>
         <p className='q'>&lt;"You don't have to be 'a creative' to be creative."/&gt;</p>
         <div className='link'>
@@ -26,6 +27,7 @@ const About = () => {
             <a href='https://www.linkedin.com/in/rajendra-prasad-r/' target='_blank'><img src={linked}/></a>
           </div>
         </div>
+    </div>
     </div>
   )
 }
