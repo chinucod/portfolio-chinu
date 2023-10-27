@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-chinu/static/css/main.849c6fcc.css",
+    "main.js": "/portfolio-chinu/static/js/main.b78bde85.js",
+    "static/media/arthi.png": "/portfolio-chinu/static/media/arthi.78d293292c38feab1571.png",
+    "static/media/sass.png": "/portfolio-chinu/static/media/sass.b3f3191d802e1c460538.png",
+    "static/media/call.png": "/portfolio-chinu/static/media/call.fdc29f65402c4a0ff5cd.png",
+    "static/media/sql.png": "/portfolio-chinu/static/media/sql.4a4956078faa53e0edb1.png",
+    "static/media/login.png": "/portfolio-chinu/static/media/login.3d32dda1832ea8090183.png",
+    "static/media/tally.png": "/portfolio-chinu/static/media/tally.53ea67ed6d05c0efa654.png",
+    "static/media/insta.png": "/portfolio-chinu/static/media/insta.046af6041ae1fffdc4a7.png",
+    "static/media/git.png": "/portfolio-chinu/static/media/git.faccfae3c97596fcb27e.png",
+    "static/media/portfolio.png": "/portfolio-chinu/static/media/portfolio.9c3e1f86e6596204edc1.png",
+    "static/media/linkedin.png": "/portfolio-chinu/static/media/linkedin.c756c40379a7f745dcf4.png",
+    "static/media/logo2.png": "/portfolio-chinu/static/media/logo2.a9e5f98de63de846eceb.png",
+    "static/media/mongo.png": "/portfolio-chinu/static/media/mongo.62f6b1e4375f36d6eb26.png",
+    "static/media/react.png": "/portfolio-chinu/static/media/react.e71f4c5b0c4306d65355.png",
+    "static/media/photo.png": "/portfolio-chinu/static/media/photo.8c9a39042af9118804a3.png",
+    "static/media/resize.png": "/portfolio-chinu/static/media/resize.27e975ca9a1acbcaa89d.png",
+    "static/media/view.png": "/portfolio-chinu/static/media/view.b6c88c93e0f20f354c8c.png",
+    "static/media/py.png": "/portfolio-chinu/static/media/py.f7f12e1bf59e577656a2.png",
+    "static/media/cv.png": "/portfolio-chinu/static/media/cv.f033bb2896a043a5f170.png",
+    "static/media/mail.png": "/portfolio-chinu/static/media/mail.8fc21969c09d93565c9e.png",
+    "static/media/css.png": "/portfolio-chinu/static/media/css.5721a3928fe43de6baf8.png",
+    "index.html": "/portfolio-chinu/index.html",
+    "main.849c6fcc.css.map": "/portfolio-chinu/static/css/main.849c6fcc.css.map",
+    "main.b78bde85.js.map": "/portfolio-chinu/static/js/main.b78bde85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849c6fcc.css",
+    "static/js/main.b78bde85.js"
+  ]
+}
