@@ -27,6 +27,7 @@ const About = () => {
             <a href='https://www.linkedin.com/in/rajendra-prasad-r/' target='_blank'><img src={linked}/></a>
           </div>
         </div>
+        
     </div>
     </div>
   )
