@@ -5,6 +5,7 @@ import tally from '../images/tally.png'
 import view from '../images/view.png'
 import github from '../images/github.png'
 import resize from '../images/resize.png'
+import portfolio from '../images/portfolio.png'
 const Projects = () => {
   return (
     <div id="projects">
@@ -74,7 +75,7 @@ const Projects = () => {
                     </div>
             </div>
             <div class="card">
-                <div className='image'><img src={resize}/></div>
+                <div className='image'><img src={portfolio}/></div>
                     <div className='heading'>
                         <h4>Portfolio</h4>
                         <p>Portfolio-Site</p>
