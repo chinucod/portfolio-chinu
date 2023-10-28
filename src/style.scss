@@ -6,7 +6,6 @@ html{
     @media screen and (max-width:600px) {
         display: block;
         margin-top: 20px;
-        font-family: 'Poppins', sans-serif;
     }
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
@@ -48,12 +47,10 @@ html{
     height: 80px;
     font-family: 'DM Sans', sans-serif;
     padding-left: 30px;
-    font-family: 'Poppins', sans-serif;
     @media screen and (max-width:600px) {
         background-color: #ffffff;
         backdrop-filter: none;
         padding: 0;
-        font-family: 'Poppins', sans-serif;
     }
     img{
         padding-left: 30px;
@@ -61,7 +58,6 @@ html{
         cursor: pointer;
         @media screen and (max-width:600px) {
             width: 130px;
-            font-family: 'Poppins', sans-serif;
         }
     }
     .icon{
@@ -70,7 +66,6 @@ html{
             display: block;
             margin-right: 30px;
             width: 20px;
-            font-family: 'Poppins', sans-serif;
         }
     }
     .top{
@@ -79,7 +74,6 @@ html{
         margin-left: 550px;
         @media screen and (max-width:600px) {
             display: none;
-            font-family: 'Poppins', sans-serif;
         }
             li{
             list-style: none;
@@ -89,7 +83,6 @@ html{
             font-size: 24px;
             font-weight: 800;
             cursor: pointer;
-                font-family: 'Poppins', sans-serif;
             a{
                 text-decoration: none;
                 color: black;
@@ -109,29 +102,23 @@ html{
         font-weight: 900;
         line-height: 0.1;
         padding-top: 200px;
-        font-family: 'Poppins', sans-serif;
         @media screen and (max-width:600px) {
             font-size: 40px;
-            font-family: 'Poppins', sans-serif;
         }
         p:last-child{
             font-size: 80px;
             padding-top: 0;
             transition: all 0.9s ease;
             cursor: pointer;
-            font-family: 'Poppins', sans-serif;
             @media screen and (max-width:600px) {
                 font-size: 50px;
-                font-family: 'Poppins', sans-serif;
             }
         }
         .underline{
             transition: all 0.9s ease;
             cursor: pointer;
-            font-family: 'Poppins', sans-serif;
             @media screen and (max-width:600px) {
                 margin-top: 150px;
-                font-family: 'Poppins', sans-serif;
             }
         }
     }
@@ -144,7 +131,6 @@ html{
         transition: all 0.9s ease;
         @media screen and (max-width:600px) {
             font-size: 15px;
-            font-family: 'Poppins', sans-serif;
         }
     }
     .link{
@@ -172,10 +158,6 @@ html{
 .underline1:hover{ transform: scale(1.1);}
 .me{
     padding-top: 80px;
-    font-family: 'Poppins', sans-serif;
-    @media screen and (max-width:600px) {
-                font-family: 'Poppins', sans-serif;
-            }
     .about-me{
         font-family: 'Poppins', sans-serif;
         text-align: center;
@@ -186,7 +168,7 @@ html{
         }
         p:not(:first-child):not(:last-child){
             font-size: 70px;
-            font-weight: 700;
+            font-weight: 500;
             color: #9DFF00;
             margin-bottom: 80px;
             cursor: pointer;
@@ -446,9 +428,7 @@ html{
 
 .footer{
     font-family: 'Poppins', sans-serif;
-    @media screen and (max-width:600px) {
-                font-family: 'Poppins', sans-serif;
-            }
+    
     .foot{
         
         p{
