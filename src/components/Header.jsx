@@ -1,6 +1,6 @@
 import React , { useState } from 'react'
 
-import logo2 from '../images/logo2.png'
+import logo from '../images/logo.png'
 import close from "../images/close.png"
 import menu from "../images/menu.png"
 const Header = () => {
@@ -21,7 +21,7 @@ const Header = () => {
     <div id='home'>
     <div className='fixed'>
     <div className='nav-bar'>
-          <a href='#home'><img src={logo2}/></a>
+          <a href='#home'><img src={logo}/></a>
             <ul className='top'>
               <li><a className='link' href='#me'>About</a></li>
               <li><a className='link' href='#skills'>Skills</a></li>
