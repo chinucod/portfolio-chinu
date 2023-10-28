@@ -5,7 +5,6 @@ import cv from '../images/cv.png'
 import git from "../images/github.png"
 import insta from "../images/insta.png"
 import linked from "../images/linkedin.png"
-
 const Footer = () => {
   
   return (
@@ -31,18 +30,20 @@ const Footer = () => {
           </div>
         </div>
         <div className='contact'>
+        
         <div className='connect'>
               <img src={mail}/>
-              <a href=''>chintoramesh@gmail.com</a>
+              <a href="mailto:chintoramesh@gmail.com">chintoramesh@gmail.com</a>
             </div>
             <div className='connect'>
               <img src={call}/>
-              <a href=''>91+ 790-492-5119</a>
+              <a href="tel:+91 7904925119">91+ 790-492-5119</a>
             </div>
             <div className='connect q'>
-              <a href='../resume/Rajendra_prasad_resume.pdf' download>Download Resume</a>
+              <a href="" download>Download Resume</a>
             </div>
-      </div>
+        
+        </div>
         </div>
         <div className='form-class'>
             <form name='submit-to-google-sheet'>
