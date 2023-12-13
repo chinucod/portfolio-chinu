@@ -6,9 +6,6 @@ import view from "../images/view.png";
 import github from "../images/github.png";
 import resize from "../images/resize.png";
 import portfolio from "../images/portfolio.png";
-import hotel from "../images/Hotel.png";
-import telangana from "../images/telangana.png";
-import telangana2 from "../images/telangana2.png";
 const Projects = () => {
   return (
     <div id="projects">
